@@ -7064,11 +7064,11 @@ body.landing-page {
 }
 .landing-page .carousel-caption {
   position: absolute;
-  top: 100px;
-  left: 0;
-  bottom: auto;
-  right: auto;
-  text-align: left;
+    top: 330px;
+    bottom: auto;
+    right: 0;
+    text-align: right;
+}
 }
 .landing-page .carousel-caption {
   position: absolute;
@@ -7083,8 +7083,9 @@ body.landing-page {
 }
 .landing-page .carousel-image {
   position: absolute;
-  right: 10px;
-  top: 150px;
+  left: -100px;
+  top: -10px;
+}
 }
 .landing-page .carousel-indicators {
   padding-right: 60px;
